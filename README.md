@@ -20,7 +20,7 @@ What sort of constraints can we obtain following the analysis in [the Cosmic Gra
 
 **GNN setup:**
 - simple MLP models for node, edge, and global functions
-- multi-head aggregation function for ragged edges: $\bigoplus_i \in [\rm sum, mean, var, max]$
+- multi-head aggregation function for nodes and edges: $\bigoplus_i \in [\rm sum, mean, var, max]$
 - $2\times$ GNN Blocks:
     1. edge update
     2. node update
