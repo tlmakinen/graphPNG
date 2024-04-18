@@ -25,3 +25,7 @@ What sort of constraints can we obtain following the analysis in [the Cosmic Gra
     1. edge update
     2. node update
     3. global update
+
+## TODOs:
+- yank fiducial dataset from cosmic graphs analysis
+- look at degeneracies in $\Omega_m, \sigma_8, \rm{LOC} \rm{EQ}$.
